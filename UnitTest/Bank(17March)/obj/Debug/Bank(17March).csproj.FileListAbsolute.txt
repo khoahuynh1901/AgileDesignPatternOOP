@@ -1,0 +1,7 @@
+C:\Users\Khoah\Documents\Bank(17March)\bin\Debug\Bank(17March).exe.config
+C:\Users\Khoah\Documents\Bank(17March)\bin\Debug\Bank(17March).exe
+C:\Users\Khoah\Documents\Bank(17March)\bin\Debug\Bank(17March).pdb
+C:\Users\Khoah\Documents\Bank(17March)\obj\Debug\Bank(17March).csproj.AssemblyReference.cache
+C:\Users\Khoah\Documents\Bank(17March)\obj\Debug\Bank(17March).csproj.CoreCompileInputs.cache
+C:\Users\Khoah\Documents\Bank(17March)\obj\Debug\Bank(17March).exe
+C:\Users\Khoah\Documents\Bank(17March)\obj\Debug\Bank(17March).pdb
