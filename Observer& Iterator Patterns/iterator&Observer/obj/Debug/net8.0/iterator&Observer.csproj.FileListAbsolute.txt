@@ -1,0 +1,5 @@
+C:\Users\Khoah\Documents\School\Year 2\Winter-2023\COMP2151(Agile Development) c#\Observer& Iterator Patterns\iterator&Observer\obj\Debug\net8.0\iterator&Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khoah\Documents\School\Year 2\Winter-2023\COMP2151(Agile Development) c#\Observer& Iterator Patterns\iterator&Observer\obj\Debug\net8.0\iterator&Observer.AssemblyInfoInputs.cache
+C:\Users\Khoah\Documents\School\Year 2\Winter-2023\COMP2151(Agile Development) c#\Observer& Iterator Patterns\iterator&Observer\obj\Debug\net8.0\iterator&Observer.AssemblyInfo.cs
+C:\Users\Khoah\Documents\School\Year 2\Winter-2023\COMP2151(Agile Development) c#\Observer& Iterator Patterns\iterator&Observer\obj\Debug\net8.0\iterator&Observer.csproj.CoreCompileInputs.cache
+C:\Users\Khoah\Documents\School\Year 2\Winter-2023\COMP2151(Agile Development) c#\Observer& Iterator Patterns\iterator&Observer\obj\Debug\net8.0\iterator&Observer.sourcelink.json
