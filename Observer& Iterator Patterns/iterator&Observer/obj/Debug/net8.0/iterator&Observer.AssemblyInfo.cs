@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("iterator&Observer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c67dc6e4cd9a0d848afd89c4372d5aa4b6b3fc6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d22f67cdae4514a975380476d166a96be694d5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("iterator&Observer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("iterator&Observer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

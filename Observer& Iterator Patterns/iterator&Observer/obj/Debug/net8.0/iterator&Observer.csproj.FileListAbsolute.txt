@@ -3,3 +3,13 @@ C:\Users\Khoah\Documents\School\Year 2\Winter-2023\COMP2151(Agile Development) c
 C:\Users\Khoah\Documents\School\Year 2\Winter-2023\COMP2151(Agile Development) c#\Observer& Iterator Patterns\iterator&Observer\obj\Debug\net8.0\iterator&Observer.AssemblyInfo.cs
 C:\Users\Khoah\Documents\School\Year 2\Winter-2023\COMP2151(Agile Development) c#\Observer& Iterator Patterns\iterator&Observer\obj\Debug\net8.0\iterator&Observer.csproj.CoreCompileInputs.cache
 C:\Users\Khoah\Documents\School\Year 2\Winter-2023\COMP2151(Agile Development) c#\Observer& Iterator Patterns\iterator&Observer\obj\Debug\net8.0\iterator&Observer.sourcelink.json
+C:\Users\Khoah\Documents\School\Year 2\Winter-2023\COMP2151(Agile Development) c#\Observer& Iterator Patterns\iterator&Observer\bin\Debug\net8.0\iterator&Observer.exe
+C:\Users\Khoah\Documents\School\Year 2\Winter-2023\COMP2151(Agile Development) c#\Observer& Iterator Patterns\iterator&Observer\bin\Debug\net8.0\iterator&Observer.deps.json
+C:\Users\Khoah\Documents\School\Year 2\Winter-2023\COMP2151(Agile Development) c#\Observer& Iterator Patterns\iterator&Observer\bin\Debug\net8.0\iterator&Observer.runtimeconfig.json
+C:\Users\Khoah\Documents\School\Year 2\Winter-2023\COMP2151(Agile Development) c#\Observer& Iterator Patterns\iterator&Observer\bin\Debug\net8.0\iterator&Observer.dll
+C:\Users\Khoah\Documents\School\Year 2\Winter-2023\COMP2151(Agile Development) c#\Observer& Iterator Patterns\iterator&Observer\bin\Debug\net8.0\iterator&Observer.pdb
+C:\Users\Khoah\Documents\School\Year 2\Winter-2023\COMP2151(Agile Development) c#\Observer& Iterator Patterns\iterator&Observer\obj\Debug\net8.0\iterator&Observer.dll
+C:\Users\Khoah\Documents\School\Year 2\Winter-2023\COMP2151(Agile Development) c#\Observer& Iterator Patterns\iterator&Observer\obj\Debug\net8.0\refint\iterator&Observer.dll
+C:\Users\Khoah\Documents\School\Year 2\Winter-2023\COMP2151(Agile Development) c#\Observer& Iterator Patterns\iterator&Observer\obj\Debug\net8.0\iterator&Observer.pdb
+C:\Users\Khoah\Documents\School\Year 2\Winter-2023\COMP2151(Agile Development) c#\Observer& Iterator Patterns\iterator&Observer\obj\Debug\net8.0\iterator&Observer.genruntimeconfig.cache
+C:\Users\Khoah\Documents\School\Year 2\Winter-2023\COMP2151(Agile Development) c#\Observer& Iterator Patterns\iterator&Observer\obj\Debug\net8.0\ref\iterator&Observer.dll

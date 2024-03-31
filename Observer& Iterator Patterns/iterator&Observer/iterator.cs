@@ -28,7 +28,7 @@ namespace iterator_Observer
         {
             values_ = new List<string>();
         }
-        #region IAggregate Members
+        #region IAggregateMembers
         public IIterator GetIterator()
         {
             return new MyIterator(this);

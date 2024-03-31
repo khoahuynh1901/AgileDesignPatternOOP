@@ -11,6 +11,7 @@ namespace iterator_Observer
         void Subscribe(Observer observer);
         void Unsubscribe(Observer observer);
         void Notify();
+
     }
     interface IObserver
     {
